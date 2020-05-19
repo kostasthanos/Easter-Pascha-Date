@@ -1,6 +1,6 @@
 # Easter-Date
 
-## A research made for finding Easter's date with Gauss's Algorithm.
+## A project made for finding Easter's date with Gauss's Algorithm.
 
 The symbolism : [x]<sub>n</sub> = (x mod n) is being used to denote the remainder of the devision x divided by n.
 
