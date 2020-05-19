@@ -21,7 +21,21 @@ Some definitions and explanations of the following terms have been provided
 
     2 + [19 · [Y ]<sub>19</sub> + 16]<sub>30</sub> of April
 
-For a complete overview of the project you can read the pdf file with name *Finding the date of Easter with Gauss’s Algorithm: An implementation in Python* in which the above definitions are being explained in detail. In addition, at the end of the work, both Orthodox and Catholic Easter dates for the years 2000 to 2100 are presented. Finally, the years where Orthodox and Catholic dates are coincided are highlighted.
+For a complete overview of the project you can read the pdf file with name *Finding the date of Easter with Gauss’s Algorithm: An implementation in Python* in which the above definitions are being explained in detail. In addition, at the end of the work, both Orthodox and Catholic Easter dates for the years 2000 to 2100 are presented. Finally, the years where Orthodox and Catholic dates are coincided are highlighted. Below you can see a part from the results for the years 2020 to 2030
+
+| Year | Orthodox | Catholic |  
+|  --- |    ---   |    ---   |  
+| 2020 | 19 April | 12 April |  
+| 2021 |  2 May   |  4 April |  
+| 2022 | 24 April | 17 April |  
+| 2023 | 16 April |  9 April |  
+| 2024 |  5 May   | 31 March |  
+| **2025** | 20 April | 20 April |  
+| 2026 | 12 April |  5 April |  
+| 2027 |  2 May   | 28 March |  
+| **2028** | 16 April | 16 April |  
+| 2029 |  8 April |  1 April |  
+| 2030 | 28 April | 21 April |  
 
 Αll the mathematical calculations and algorithms presented in this work have also been implemented in Python for a better picture of the results.
 
