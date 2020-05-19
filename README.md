@@ -6,7 +6,7 @@ The symbolism : [x]<sub>n</sub> = (x mod n) is being used to denote the remainde
 
 Also the symbolism "Y" is being used to represent a year.
 
-Some definitions and explanations for the following terms have been provided
+Some definitions and explanations of the following terms have been provided
 
 1. **Metonic Cycle**
 2. **Golden Number of a year**
