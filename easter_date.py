@@ -7,7 +7,7 @@ def epacti(year):
     return (11*golden_num(year)-3)%30
 
 # Function for Orthodox Easter date calculation
-# using Gauss's algorithm.
+# Gauss's algorithm.
 def orth_easter_date(year):
     a = year%19
     b = year%4
@@ -23,7 +23,7 @@ def orth_easter_date(year):
     return result
 
 # Function for Catholic Easter date calculation
-# using Gauss's algorithm.
+# Gauss's algorithm.
 def cath_easter_date(year):
     a = year%19
     b = year%4
