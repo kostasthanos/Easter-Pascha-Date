@@ -11,12 +11,10 @@ Some definitions and explanations of the following terms have been provided
 1. **Metonic Cycle**
 2. **Golden Number of a year**
 
-   golden_number(year) = [Y]<sub>19</sub> + 1 or   
-   gn(Y) = [Y]<sub>19</sub> + 1
+   golden_number(year) = [Y]<sub>19</sub> + 1  **or**  gn(Y) = [Y]<sub>19</sub> + 1
 3. **Epact of a year**
 
-    E[Y] = [11 · (gn(Y) - 1) + 8]<sub>30</sub> or  
-    E[Y] = [11 · gn(Y) - 3]<sub>30</sub>
+    E[Y] = [11 · (gn(Y) - 1) + 8]<sub>30</sub>  **or**  E[Y] = [11 · gn(Y) - 3]<sub>30</sub>
 4. **Pascha Full Moon date**
 
     2 + [19 · [Y ]<sub>19</sub> + 16]<sub>30</sub> of April
