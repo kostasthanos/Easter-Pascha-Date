@@ -1,3 +1,11 @@
+#=========================#
+#  Finding Easter's Date  #
+# using Gauss's algorithm #
+#-------------------------#
+#   Konstantinos Thanos   #
+#    Mathematician, MSc   #
+#=========================#
+
 # Function for golden number calculation.
 def golden_num(year):
     return year%19+1
