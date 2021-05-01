@@ -1,4 +1,4 @@
-# Easter-Date
+# Easter-Pascha-Date
 
 ## A project made for finding Easter's date with Gauss's Algorithm.
 
